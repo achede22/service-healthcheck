@@ -1,5 +1,5 @@
 # service-healthcheck
-Restart the service, check servise health, and report if service is unhealthy
+check the service health, and restart/report if it is unhealthy.
 
 Achedé22
 2014
